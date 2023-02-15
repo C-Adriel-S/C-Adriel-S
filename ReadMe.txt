@@ -1,0 +1,44 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adriel Allen
+====================================================================================================================================
+
+Undergrad Student
+-----------------
+
+Hey there! 👋 I'm a college undergrad who's relatively new to coding but I'm already hooked! 💻 I've been at it for just under a year and I'm already starting to dip my toes into the wonderful world of web development. I have some experience with HTML, CSS, Java, and Python, but I'm particularly passionate about backend development. I just love the idea of making the magic happen behind the scenes. 😎 My ultimate goal is to become a full stack developer, but I know I still have a long way to go on my coding journey. I'm excited to keep learning and growing as a programmer and I'm always on the lookout for new challenges and projects to sink my teeth into. Thanks for stopping by my profile! Let's connect and see what kind of cool stuff we can build together. 🚀
+
+*   🌍  I'm based in Connecticut
+*   ✉️  You can contact me at [adriel.allencs@gmail.com](mailto:adriel.allencs@gmail.com)
+*   🚀  I'm currently working on [A Restaurant Site](http://https://github.com/C-Adriel-S)
+*   🧠  I'm learning JavaScript
+*   🤝  I'm open to collaborating on Backend Projects
+*   ⚡  I once ate an entire pizza by myself and lived to tell the tale. 🍕😎<a href="https://www.twitter.com/AdrielA_CS" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/AdrielA_CS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.dev.to/DenialError" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/C-Adriel-S" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://backendbites.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/a6riel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/adriel-allen-b3aa4422b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/@adriel.allencs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/AdrielA_CS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/C-Adriel-S"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=C-Adriel-S&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
