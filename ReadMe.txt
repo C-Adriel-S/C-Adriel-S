@@ -3,6 +3,6 @@ Hey there! 👋 I'm a college undergrad who's relatively new to coding but I'm a
 
 You can contact me at adriel.allencs@gmail.com ✉️
 I'm learning CSS/JAVA 🧠    
-I'm open to collaborating on Backend Projects 🤝
+I'm open to collaborating on all kinds of Projects 🤝
 
 ⚡ I once ate an entire pizza by myself and lived to tell the tale. 🍕
