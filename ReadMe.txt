@@ -1,8 +1,1 @@
-Hey there! 👋 I'm a college undergrad who's relatively new to coding but I'm already hooked! 💻 I've been at it for just under a year and I'm already starting to dip my toes into the wonderful world of web development. I have some experience with HTML, CSS, Java, and Python, but I'm particularly passionate about backend development. I just love the idea of making the magic happen behind the scenes. 😎 My ultimate goal is to become a full stack developer, but I know I still have a long way to go on my coding journey. I'm excited to keep learning and growing as a programmer and I'm always on the lookout for new challenges and projects to sink my teeth into. Thanks for stopping by my profile! Let's connect and see what kind of cool stuff we can build together. 🚀 🌍 
-
-
-You can contact me at adriel.allencs@gmail.com ✉️
-I'm learning CSS/JAVA 🧠    
-I'm open to collaborating on all kinds of Projects 🤝
-
-⚡ I once ate an entire pizza by myself and lived to tell the tale. 🍕
+Hey - I'm Adriel, a Junior Standing CS student focused on backend and infrastructure. I'm currently workling in java and python , building up my foundation in full stack web development; my heart will always be in backend though. Whats happening behind the scenes, how data moves, how systems scale and how to write clean, maintainable no nonsense code. I have a long way to go before I can call myself a programmer, but I'm moving with intention. If your working on something interesting - backend, wen apps, tool - reach out. I'm always interested in learning about new technologies and stacks. 
