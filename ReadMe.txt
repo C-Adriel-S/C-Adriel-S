@@ -1,1 +1,1 @@
-Hey - I'm Adriel, a Junior Standing Cybersecurity student with a love for the offensive side but loyalty for defensive. If your working on something interesting - backend, wen apps, tool - reach out. I'm always interested in learning about new technologies and stacks. 
+Hey - I'm Adriel, a Senior Standing Cybersecurity student with a love for the offensive side but loyalty for defensive. If your working on something interesting - backend, wen apps, tool - reach out. I'm always interested in learning about new technologies and stacks. 
